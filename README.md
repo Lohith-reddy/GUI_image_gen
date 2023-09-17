@@ -12,9 +12,13 @@ This repository is concerned with the first version
 ## version 2
 
 convert it into tensorflow model for distributed computing
+
 increase dataset size
+
 Improve unet with inception resnet for global features
+
 Add in an adversial part to improve performance
+
 Deploy on a web-server
 
 ## version 3
