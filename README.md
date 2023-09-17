@@ -19,5 +19,6 @@ Deploy on a web-server
 
 ## version 3
 
-Add Gui option to choose colours based on which the model the model will produce the image
+Add Gui option to choose colours based on which the model the model will produce the image.
+
 Craft the error term accordingly (balance between opted colour error and adversial error the later is trying to keep the image real while the former is trying to get the color pallette to match that of user inputs)
