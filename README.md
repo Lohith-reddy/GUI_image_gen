@@ -14,6 +14,7 @@ We will tackle the problem incrementally.
 
 Current focus of audience - 2d animations. - cartoons, anime, explainer videos etc.
 aim: Decrease the time and resources spent to create animation videos for youtube or other platforms.
+![Model Architecture](https://github.com/Lohith-reddy/GUI_image_gen/assets/26896217/54e48e99-9f0a-4175-924c-014a8865d786)
 
 ## Step 1 - Color
 
