@@ -46,6 +46,8 @@ The following is the result after training on 2.8k images.
 
 Though the model does a good job in certain aspects, it generates bunch of colours in some areas to decrease the overall loss. To counter this I have added a new loss function that punishes the model for using too many colours. (the new loss function is a combination of mae and number of colours used. the balance between mae and number of colours can be changed by modifying a coefficient which provides higher control)
 
+I have made a mistake with the loss function. The loss function is not differentiable. Working on finding a differentiable loss function.
+
 *insert output here
 <img width="727" alt="4200nl" src="https://github.com/Lohith-reddy/recolourise/assets/26896217/049a53f0-c7d0-43bf-ae90-1f5c81113df0">
 ![4200nl3](https://github.com/Lohith-reddy/recolourise/assets/26896217/d00048a4-d872-468c-95e5-8746abc34bf9)
